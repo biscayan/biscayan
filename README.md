@@ -16,7 +16,7 @@ Speech recognition researcher at Hankuk University of Foreign Studies (HUFS)
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 ### 📩 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwn34@gmail.com)](mailto:skgudwn34@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwn34@gmail.com)](mailto:skgudwn34@gmail.com) 
 <a href="https://www.instagram.com/michaelnaju/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/michaelnaju/"/></a>
 
 ### 🏅 Github stats
@@ -25,7 +25,7 @@ Speech recognition researcher at Hankuk University of Foreign Studies (HUFS)
 ### 📌 Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscayan&layout=compact&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
 
-### BOJ algorithm
+### 💡 BOJ algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skgudwn34)](https://solved.ac/skgudwn34/)
 
 <!--
