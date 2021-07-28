@@ -1,12 +1,9 @@
 ## 👋 About Hyeongju Na
 ### 👨‍💻 Position
-Speech Recognition Researcher at Hankuk University of Foreign Studies (HUFS) 
+Speech recognition researcher at Hankuk University of Foreign Studies (HUFS) 
 
-### 🏅 Github stats
-[![biscayan's github stats](https://github-readme-stats.vercel.app/api?username=biscayan&include_all_commits=true&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
-
-### 📌 Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscayan&layout=compact&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
+### 🤵 Career
+[Portfolio](https://github.com/biscayan/Portfolio)  
 
 ### 💻 Tech stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
@@ -22,8 +19,15 @@ Speech Recognition Researcher at Hankuk University of Foreign Studies (HUFS)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwn34@gmail.com)](mailto:skgudwn34@gmail.com)  
 <a href="https://www.instagram.com/michaelnaju/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/michaelnaju/"/></a>
 
-### 🤵 Career
-[Portfolio](https://github.com/biscayan/Portfolio)  
+### 🏅 Github stats
+[![biscayan's github stats](https://github-readme-stats.vercel.app/api?username=biscayan&include_all_commits=true&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
+
+### 📌 Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscayan&layout=compact&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
+
+### BOJ algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skgudwn34)](https://solved.ac/skgudwn34/)
+
 <!--
 **biscayan/biscayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
