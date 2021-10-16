@@ -24,9 +24,6 @@ Speech recognition researcher at Hankuk University of Foreign Studies (HUFS)
 ### 🏅 Github stats
 [![biscayan's github stats](https://github-readme-stats.vercel.app/api?username=biscayan&include_all_commits=true&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
 
-### 📌 Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscayan&layout=compact&show_icons=true&theme=react)](https://github.com/biscayan/github-readme-stats)
-
 ### 💡 BOJ algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skgudwn34)](https://solved.ac/skgudwn34/)
 
