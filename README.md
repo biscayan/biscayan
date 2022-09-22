@@ -1,7 +1,7 @@
 ##  About Hyeongju Na
 ### 👋 Introduction
 - Hi, my name is Hyeongju Na. I'm mainly interested in speech and language processing.  
-- I'd love to learn ML and DL methods, so I'm focusing on reading many papers [paper list what I read](https://github.com/biscayan/TIL/blob/master/Research/paper.md).
+- I'd love to learn ML and DL methods, so I'm focused on reading many papers [paper list what I read](https://github.com/biscayan/TIL/blob/master/Research/paper.md).
 - I always think that communication with colleagues is very important.
 - In rest time, I usually watch Netflix.
 
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/></a>
 
 ### 📩 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwn34@gmail.com)](mailto:skgudwn34@gmail.com) 
