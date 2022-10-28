@@ -1,13 +1,13 @@
 ##  About Hyeongju Na
 ### 👋 Introduction
 - Hi, my name is Hyeongju Na. I'm mainly interested in speech and language processing.  
-- I'd love to learn ML and DL methods, so I'm focused on reading many papers [paper list what I read](https://github.com/biscayan/TIL/blob/master/Research/paper.md).
+- I'd love to learn ML and DL methods, so I'm focused on reading many papers [[paper list what I read]](https://github.com/biscayan/TIL/blob/master/Research/paper.md).
 - I always think that communication with colleagues is very important.
 - In rest time, I usually watch Netflix.
 
 ### 👨‍💻 Career
 - ASR researcher at Lotte Data Communication Company (Feb., 2022 ~ )
-- ASR researcher at Language Technology Research Institute (Mar., 2020 ~ Jan., 2022)
+- ASR researcher at Language Technology Research Institute in HUFS (Mar., 2020 ~ Jan., 2022)
 - T.A. at Hankuk University of Foreign Studies (Mar., 2019 ~ Feb., 2021)
 
 ### 💻 Tech stacks
@@ -16,9 +16,12 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/></a>
 
