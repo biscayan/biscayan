@@ -3,7 +3,6 @@
 - Hi, my name is Hyeongju Na. I'm mainly interested in speech and language processing.  
 - I'd love to learn ML and DL methods, so I'm focused on reading many papers [[paper list what I read]](https://github.com/biscayan/TIL/blob/master/Research/paper.md).
 - I always think that communication with colleagues is very important.
-- In rest time, I usually watch Netflix.
 
 ### 👨‍💻 Career
 - ASR researcher at Lotte Data Communication Company (Feb., 2022 ~ )
