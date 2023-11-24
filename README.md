@@ -29,7 +29,6 @@
 
 ### 📩 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwn34@gmail.com)](mailto:skgudwn34@gmail.com) 
-<a href="https://www.instagram.com/michaelnaju/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/michaelnaju/"/></a>
 <a href="https://www.linkedin.com/in/hyeongju-na-208283236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hyeongju-na-208283236/"/></a>
 
 ### 🏅 Github stats
