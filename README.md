@@ -2,15 +2,15 @@
 ### 👋 Introduction
 - Hi, my name is Hyeongju Na. I'm mainly interested in speech and language processing.  
 - I'd love to learn ML and DL methods, so I'm focused on reading many papers [[paper list what I read]](https://github.com/biscayan/TIL/blob/master/Research/paper.md).
-- I always think that communication with colleagues is very important.
+- I always think that communication with colleagues is important.
 
 ### 👨‍💻 Career
-- ASR researcher at Lotte Data Communication Company (Feb., 2022 ~ )
+- Speech AI researcher at Lotte Data Communication Company (Feb., 2022 ~ )
 - ASR researcher at Language Technology Research Institute in HUFS (Mar., 2020 ~ Jan., 2022)
 - T.A. at Hankuk University of Foreign Studies (Mar., 2019 ~ Feb., 2021)
 
 ### 🏆 Prize
-- 1st place in 2023 Korean AI Competition Track2-1
+- 1st place in [2023 Korean AI Competition](https://competition.aihub.or.kr/2023) Track 2-1 
 
 ### 💻 Tech stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -19,13 +19,13 @@
 <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> -->
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-
-<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/></a>
+
+<!-- <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> -->
 
 ### 📩 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgudwn34@gmail.com)](mailto:skgudwn34@gmail.com) 
