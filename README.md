@@ -5,7 +5,8 @@
 - I always think that communication with colleagues is the most important.
 
 ### 👨‍💻 Career
-- Speech AI researcher at Lotte Data Communication Company (Feb., 2022 ~ )
+- Speech AI researcher at LG Uplus (Apr., 2024 ~ )
+- Speech AI researcher at Lotte Innovate (Feb., 2022 ~ Apr., 2024)
 - ASR researcher at Language Technology Research Institute in HUFS (Mar., 2020 ~ Jan., 2022)
 - T.A. at Hankuk University of Foreign Studies (Mar., 2019 ~ Feb., 2021)
 
